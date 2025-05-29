@@ -1,0 +1,1 @@
+First expirience working with Git from VS Code
